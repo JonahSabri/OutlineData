@@ -1,0 +1,9 @@
+{
+"server":"94.131.117.246",
+"server_port":35865,
+"mode":"tcp_and_udp",
+"password":"PI5pStGlMz",
+"timeout":1000,
+"method":"aes-256-gcm",
+"local_port":1080
+}
