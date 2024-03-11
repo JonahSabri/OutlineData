@@ -1,1 +1,1 @@
-http://xray.myftp.biz
+http://94.131.117.246:10091/user/
